@@ -1,0 +1,13 @@
+{
+  "title": "Latest TeamFortress.TV news",
+  "name": "tftvnews",
+  "version": "0.0.1",
+  "description": "Shows the latest TeamFortress.TV news and allows you to read them on the site itself",
+  "main": "main.js",
+  "author": "Hergan",
+  "engines": {
+    "firefox": ">=38.0a1",
+    "fennec": ">=38.0a1"
+  },
+  "license": "MIT"
+}
